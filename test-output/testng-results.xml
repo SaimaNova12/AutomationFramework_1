@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-14T01:35:18 BDT" name="Default suite" finished-at="2024-02-14T01:35:53 BDT" duration-ms="35024">
+    <groups>
+    </groups>
+    <test started-at="2024-02-14T01:35:18 BDT" name="Default test" finished-at="2024-02-14T01:35:53 BDT" duration-ms="35024">
+      <class name="SaimaNova.test.login_test">
+        <test-method is-config="true" signature="start()[pri:0, instance:SaimaNova.test.login_test@411f53a0]" started-at="2024-02-14T01:35:16 BDT" name="start" finished-at="2024-02-14T01:35:18 BDT" duration-ms="1526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:SaimaNova.test.login_test@411f53a0]" started-at="2024-02-14T01:35:18 BDT" name="openurl" finished-at="2024-02-14T01:35:21 BDT" duration-ms="3105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="loginTest()[pri:0, instance:SaimaNova.test.login_test@411f53a0]" started-at="2024-02-14T01:35:21 BDT" name="loginTest" finished-at="2024-02-14T01:35:53 BDT" duration-ms="31888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:SaimaNova.test.login_test@411f53a0]" started-at="2024-02-14T01:35:53 BDT" name="close" finished-at="2024-02-14T01:35:53 BDT" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- SaimaNova.test.login_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

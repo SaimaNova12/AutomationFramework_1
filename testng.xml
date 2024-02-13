@@ -1,0 +1,8 @@
+
+<?xml-model href="testng.xml"?>
+<suite name = "Automation"></suite>
+   <test name="loginTest">
+		<classes>
+			<classname = "SaimaNova.login_test">
+		</classes>
+	</test>*/
